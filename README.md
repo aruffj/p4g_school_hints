@@ -18,7 +18,7 @@ April:
 * 4/30 - Parents get angry so easily. They might think about something extreme! Maybe they'd push me in a canyon like the Valles Marineris. - Ahem, anyway, that's an interesting topic for today! Close your books and take a look at the handout. 
 
 May:
-* 5/7 - Soseki once translated the phrase "I love you" into a rather poethic phrase, referencing lunar beauty. - He felt that he could preserve the subtle sinsibility of the Meiji's period Japanese language. 
+* 5/7 - Soseki once translated the phrase "I love you" into a rather poethic phrase, referencing lunar beauty. - He felt that he could preserve the subtle sensibility of the Meiji's period Japanese language. 
 
 June:
 * 6/8 - **ANSWER CHANGED**: "Uneven Bars." to "Bech Presses." (Less correlation to balancing)
