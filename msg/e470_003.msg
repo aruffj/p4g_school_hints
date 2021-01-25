@@ -13,7 +13,7 @@
 [f 0 5 -258][f 2 1]I know it's the rainy season, and you[n]may not be very motivated, but let's[n]keep our spirits up together, okay!?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Anyway, I really hate this weather since[n]I can't go out and exercise![n][f 1 1][e]
 [f 0 5 -258][f 2 1]But watching sports on TV isn't bad,[n]either! I saw the heikin-dai competition[n]the other day![n][f 1 1][e]
-[f 0 5 -258][f 2 1]They do beautiful moves with a delicate[n]sense of balance! Though, I can see why[n]men would be afraid to try it! Hahahaha![n][f 1 1][e]
+[f 0 5 -258][f 2 1]They do beautiful moves on those beams with a delicate[n]sense of balance! Though, I can see why[n]men would be afraid to try it! Hahahaha![n][f 1 1][e]
 
 [msg MSG_004 [Yukiko]]
 [f 0 5 -258][f 2 1][f 4 6 4 1 -1 1]......?[n]Hey, [f 4 2]-kun.[n][f 1 1][e]
@@ -22,7 +22,7 @@
 [sel SEL_005]
 [f 0 5 -258][f 2 1]"Balance Beam."[f 2 7 0 0 30 1][e]
 [f 0 5 -258][f 2 1]"High Dive."[e]
-[f 0 5 -258][f 2 1]"Bench presses."[e]
+[f 0 5 -258][f 2 1]"Uneven bars."[e]
 [f 0 5 -258][f 2 1]"Synchronized Dancing."[e]
 
 [msg MSG_007 [Mr. Kondo]]

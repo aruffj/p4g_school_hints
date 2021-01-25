@@ -39,7 +39,7 @@
 [f 0 5 -258][f 2 1]Speaking of mold, lactic acid bacteria are[n]effective in treating mold! The lactic acid[n]they produce guards against mold![n][f 1 1][e]
 [f 0 5 -258][f 2 1]That's why foods containing lactic acid[n]bacteria don't get very moldy![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Your bodies also produce lactic acid when[n]you exercise![n][f 1 1][e]
-[f 0 5 -258][f 2 1]To do so it needs to break down[n]glucose without oxygen![n]The Greek name for that is anaerobic![n][f 1 1][e]
+[f 0 5 -258][f 2 1]The resulting absence of oxygen for[n]transferring energy is described as anaerobic.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right, [f 4 1]![n][f 1 1][e]
 
 [msg MES_008 [Mr. Kondo]]
@@ -67,7 +67,8 @@
 [f 0 5 -258][f 2 1]You've gotta watch out for unjustified[n]resentment, guys! I'm sure you know what[n]I mean; you all watch gossip shows![n][f 1 1][e]
 [f 0 5 -258][f 2 1]You never know who has a grudge against[n]you. My advice? Train your body regularly,[n]so you can fight back![n][f 1 1][e]
 [f 0 5 -258][f 2 1]You need exercise and meat to train your body![n]Young people, eat meat![n][f 1 1][e]
-[f 0 5 -258][f 2 1]All right, now a sudden question about meat![n]Hey, [f 4 1]![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Hunting with a bow would also be good practice.[n]And you'd get the venison[n]from all kind of wild animals as a bonus![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Hey, [f 4 1]! No zoning out![n][f 1 1][e]
 
 [msg MES_013 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]"Venison" is the meat of what animal?[n][f 1 1][e]

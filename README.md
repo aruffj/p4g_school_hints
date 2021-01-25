@@ -28,8 +28,8 @@ May:
 * 5/7 - Soseki is famous for translating a common romantic phrase in an poetic way; even making reference to the beauty of the night sky. 
 
 June:
-* 6/8 - **ANSWER CHANGED**: "Uneven Bars." to "Bech Presses." (Less correlation to balancing)
-* 6/13 - To do so it needs to break down glucose without oxygen! The Greek word for that is anaerobic!
+* 6/8 - They do beautiful moves on those beams with a delicate sense of balance! Though, I can see why men would be afraid to try it! Hahahaha!
+* 6/13 - The resulting absence of oxygen for transferring energy is described as anaerobic.
 * 6/15 - **LINE CHANGED TO:** Morals are about virtue! A groups morale is... Tell me, Hanamura! You seem to be lacking in morals!
 * 6/27 - **LINE CHANGED TO:** This class seems to be full of students without their own individual identities! - Isn't that right? ...Why the hell do you all look so upset!? Stand your ass up, [MC]!
 * 6/30 - **ANSWER CHANGED**: "Lame Duck River." to "Uphill River." (Illogical Name; Unsure about that edit.)
@@ -38,6 +38,9 @@ July:
 * 7/13 - But beware of the Sphenopalatine ganglioneuralgia! Hahaha!- Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze!
 * 7/15 - This line also marks the middle of the Earth, splitting it in two equally divided parts.
 * 7/16 - It seems that he was a good looking fellow. Especially that smooth skin in his face...
+
+September:
+* 9/1 - Hunting with a bow would also be good practice. And you'd get the venison from all kind of wild animals as a bonus! - Hey [MC] No zoning out!
 
 ## ToDo:
 * September to January Texts

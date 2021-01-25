@@ -346,7 +346,9 @@
 [f 0 5 -258][f 2 1]This town used to be so carefree. Every[n]year was more of the same until this year[n]came along...[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Anyway, I'm supposed to cover haiku[n]today. Get out your textbooks.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Haiku, unlike senryu, contain "kigo,"[n]which are words or phrases that can be[n]associated with a particular season.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]All right, why don't I test the waters[n]with a kigo-related question.[n][f 4 2]-chan![n][f 1 1][e]
+[f 0 5 -258][f 2 1]A haiku consists of five, then seven, then five[n]syllables. Let's see...[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 0 1 6]Detective in town[n]the brisk fall is comming soon[n]carefree was this town.[f 0 1 0][n][f 1 1][e]
+[f 0 5 -258][f 2 1]All right, now why don't I test the waters[n]with a kigo-related question?[n][f 4 2]-chan![n][f 1 1][e]
 
 [msg MES_058 [Mr. Hosoi]]
 [f 0 5 -258][f 2 1]Which of the following is a kigo[n]for fall?[n][f 1 1][e]
