@@ -344,9 +344,9 @@
 [f 0 5 -258][f 2 1][f 4 6 16 1 0 1]School camp will be taking place this[n]weekend. Remember, this isn't like[n]ordinary camping.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]It's going to be a place of education to[n]wind up the lazy ass minds you get from[n]screwing around all the time.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 6 16 3 0 1]I'll show you what morals are all about![n][f 1 1][e]
-[f 0 5 -258][f 2 1]And I'll send home anyone who brings down[n]the morale! You remember that![n][f 1 1][e]
+[f 0 5 -258][f 2 1]And I'll send home anyone who brings down[n]the spirit of this group - the morale![n]You remember that![n][f 1 1][e]
 [f 0 5 -258][f 2 1]...What? You don't know the difference[n]between "morals" and "morale"?[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 6 16 2 0 1]Morals are about virtue! A groups morale is... [n]Tell me, Hanamura! You seem to be lacking[n]in morals![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 6 16 2 0 1]Morals are about virtue! Morale is... [n]Tell me, Hanamura! You seem to be lacking[n]in morals![n][f 1 1][e]
 
 [msg MES_054 [Yosuke]]
 [f 0 5 -258][f 2 1][f 4 6 2 8 -1 1]Dammit, King Moron! I thought I knew,[n]but now I'm doubting myself![n][f 1 1][e]

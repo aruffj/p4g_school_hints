@@ -97,9 +97,9 @@
 [msg MES_017 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Good afternoooon! As I'm sure you all know,[n]yesterday was Respect For the Aged Day![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Did you all take good care of your elders?[n]I sure did![n][f 1 1][e]
-[f 0 5 -258][f 2 1]My grandmother is over 90, but she still[n]gets out and sweats by playing gateball![n][f 1 1][e]
+[f 0 5 -258][f 2 1]My grandmother is over 90 - so a nonagenarian - but she still[n]gets out and sweats by playing gateball![n][f 1 1][e]
 [f 0 5 -258][f 2 1]I just know she's gonna live over 100[n]years! Heck, she's almost there! I wish[n]her all the best to reach 100![n][f 1 1][e]
-[f 0 5 -258][f 2 1]...Oh, [f 4 1]! You're a city boy,[n]you might know this![n][f 1 1][e]
+[f 0 5 -258][f 2 1]...Oh, [f 4 1]! Let's see if our city boy was attentive![n][f 1 1][e]
 
 [msg MES_018 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]What do you call somebody who's between[n]ninety and one hundred years old?[n][f 1 1][e]
@@ -125,7 +125,7 @@
 [f 0 5 -258][f 2 1]All right, great baton work! It's the most[n]important part of a relay! Keep practicing![n][f 1 1][e]
 [f 0 5 -258][f 2 1]It doesn't matter how fast you run![n]If you drop the baton, you'll lose[n]valuable time![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Just keep passing that baton until you[n]reach the anchor! It's fundamental, but[n]difficult! Hahaha![n][f 1 1][e]
-[f 0 5 -258][f 2 1]By the way the word "anchor" was originally[n]used in a different track-and-field sport.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]By the way the word "anchor" was originally[n]used in a different track-and-field sport involving a rope.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hmmm... How about a question for[n][f 4 1]!?[n][f 1 1][e]
 
 [msg MES_023 [Mr. Kondo]]

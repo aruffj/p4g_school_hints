@@ -348,6 +348,7 @@
 [f 0 5 -258][f 2 1]Haiku, unlike senryu, contain "kigo,"[n]which are words or phrases that can be[n]associated with a particular season.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]A haiku consists of five, then seven, then five[n]syllables. Let's see...[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 0 1 6]Detective in town[n]the brisk fall is comming soon[n]carefree was this town.[f 0 1 0][n][f 1 1][e]
+[f 0 5 -258][f 2 1]Just a small haiku about our situation.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right, now why don't I test the waters[n]with a kigo-related question?[n][f 4 2]-chan![n][f 1 1][e]
 
 [msg MES_058 [Mr. Hosoi]]
@@ -375,8 +376,8 @@
 [f 0 5 -258][f 2 1]I even found some things with my dowsing[n]rod. The citizens were very glad indeed.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Time sure flies when you're having fun.[n]I'm sure your summer break was short for[n]all of you as well.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]However, don't you think that there are[n]some things in life that are best ended[n]quickly?[n][f 1 1][e]
-[f 0 5 -258][f 2 1]War is one of them. [n]So here is a question.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Miss Chie... No, [f 4 2].[n][f 1 1][e]
+[f 0 5 -258][f 2 1]War is one of them. [n]And it doesn't matter how long or short it is.[n] 30 years or 40 minutes: War never changes.[f 1 1][e]
+[f 0 5 -258][f 2 1]Here is a question for miss Chie... No, [f 4 2].[n][f 1 1][e]
 
 [msg MES_063 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]How short was history's shortest war?[n][f 1 1][e]

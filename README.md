@@ -30,7 +30,7 @@ May:
 June:
 * 6/8 - They do beautiful moves on those beams with a delicate sense of balance! Though, I can see why men would be afraid to try it! Hahahaha!
 * 6/13 - The resulting absence of oxygen for transferring energy is described as anaerobic.
-* 6/15 - **LINE CHANGED TO:** Morals are about virtue! A groups morale is... Tell me, Hanamura! You seem to be lacking in morals!
+* 6/15 - **LINE CHANGED TO:** And I'll send home anyone who brings down the spirit of this group! You remember that!
 * 6/27 - **LINE CHANGED TO:** This class seems to be full of students without their own individual identities! - Isn't that right? ...Why the hell do you all look so upset!? Stand your ass up, [MC]!
 * 6/30 - **ANSWER CHANGED**: "Lame Duck River." to "Uphill River." (Illogical Name; Unsure about that edit.)
 
@@ -41,6 +41,15 @@ July:
 
 September:
 * 9/1 - Hunting with a bow would also be good practice. And you'd get the venison from all kind of wild animals as a bonus! - Hey [MC] No zoning out!
+* 9/5 - A haiku consists of five, then seven, then five syllables. Let's see... - Detective in town; the brisk fall is comming soon; carefree was this town. - Just a small haiku about our situation. All right, now why don't I test the waters with a kigo-related question?
+* 9/17 - **LINE CHANGED TO:** War is one of them. And it doesn't matter how long or short is. 30 years or 40 minutes: War never changes. - Here is a question for miss Chie... No, [MC].
+* 9/20 - ´My grandmother is over 90 - so a nonagenarian - but she still gets out and sweats by playing gateball! - [...] - ...Oh, [MC]! Let's see if our city boy was attentive!
+
+October:
+* 10/4  - **LINE CHANGED TO:** By the way the word "anchor" was originally used in a different track-and-field sport _involving a rope_.
+* 10/11 - **LINE CHANGED TO:** Napoleon went on many military campaigns, and had needed something to _contain the food for his soldiers._ - He held a competition to invent containers made out of gla... No, [MC] would you stand up, please?
+* 10/12 - **LINE CHANGED TO:** Do you know which round, white vegetable was used to make the first jack-o'-lanterns? 
+
 
 ## ToDo:
 * September to January Texts
