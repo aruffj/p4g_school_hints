@@ -52,5 +52,5 @@ October:
 
 
 ## ToDo:
-* September to January Texts
+* October to January Texts
 * Gameplay testing
