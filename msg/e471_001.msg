@@ -11,8 +11,8 @@
 [f 0 5 -258][f 2 1]One week of vacation time, to be exact![n]But that's more than enough to teach a[n]class! Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]We'll start with the basics of the[n]basics: the English alphabet![n][f 1 1][e]
 [f 0 5 -258][f 2 1]It starts with the letter A, then B,[n]then C, and then... 23 more! Maybe[n]that was a little too basic? Hahaha![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Interestingly enough the name comes[n] from the first two Greek letters[n]alpha and beta.[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]All right! I'll give you an alphabet-[n]related pop quiz, then![n]Let's see... [f 4 1]![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Interestingly enough the word comes[n] from the first two Greek letters:[n]"alpha" and "beta".[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]All right! Did you hear me back there?[n]Let's see who was listening... [f 4 1]![n][f 1 1][e]
 
 [msg MES_003 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]The word "alphabet" comes from the[n]words "alpha" and what other one?[n][f 1 1][e]
@@ -68,8 +68,8 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]...Whoops, I have to start the lecture![n]Don't try to distract me by talking[n]about books![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Today, we're going to discuss "Kokoro"[n]by Soseki Natsume. Open your textbooks.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Before we get to the actual literature,[n]I'll ask a question about Soseki himself.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Soseki once translated the phrase[n] "I love you" into a rather poethic[n] phrase, referencing lunar beauty.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]He felt that he could[n]preserve the subtle sensibility of[n]Meiji's period Japanese language.[n] [f 1 1][e]
+[f 0 5 -258][f 2 1]Soseki is famous for translating[n]a common romantic phrase in an poetic way;[n]even making reference to the beauty of the night sky.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]He felt that he could[n]preserve the subtle sensibility of the Meiji era's[n]language in his translation.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Hmm, how about [f 4 1]-chan,[n]the city boy.[n][f 1 1][e]
 
 [msg MES_013 [Mr. Hosoi]]
@@ -758,8 +758,8 @@
 [f 0 5 -258][f 2 1]Hm? Yukiko-san is back. That's good, I'm[n]glad the only cutie in the class was[n]able to return. Wouldn't you guys agree?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Ooops! I mean, all of you are cute![n]No, really![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Er, please, don't tell your parents that[n]I said that, will ya? I don't wanna get[n]in trouble.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Parents get angry so easily. They might[n]think about something extreme![n]Maybe they'd push me in a canyon like the Valles Marineris.[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Ahem, anyway, that's an interesting[n]topic for you today! Close your books[n]and take a look at the handout.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Last time a student's father got the[n]wrong idea, I thought he was going[n]to push me into Valles Marineris![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Ahem, anyways, that's an interesting[n]topic for you today! Close your books[n]and take a look at the handout.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Sounds like a good time to pick on the[n]city boy, [f 4 2]-kun.[n][f 1 1][e]
 
 [msg MES_128 [Mr. Yamada]]
@@ -795,7 +795,7 @@
 
 [msg MES_133 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]The western calendar is based on[n]Anno Domini, the traditionally believed[n]year of Jesus Christ's birth.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Accordingly, the years are counted[n] backwards before.[n]Also they were not shortened to AD.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]The years before this are referred to as "Before Christ"; a label which is similarly abbreviated.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]What is the year before 1 AD called?[n][f 1 1][e]
 
 [sel SEL_134]

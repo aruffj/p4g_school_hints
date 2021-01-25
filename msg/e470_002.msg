@@ -13,7 +13,7 @@
 [f 0 5 -258][f 2 1]Supposedly, it knows how to search[n]the change dispenser of the vending[n]machines. How amazing is that?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Even animals can learn the value of[n]money... I guess I'll have to keep my[n]wallet more secure from now on.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Students, at your age you might not[n]understand, but money is very important![n]You can't do anything without it![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Is even common that marriages break up[n]because of money issues. [n] Luckily there aren't any "marriage" numbers in math.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]It's even common for marriages to break up[n]because of money issues. [n] Luckily there aren't any "marriage" numbers in math.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]And you know, smarts don't guarantee[n]wealth. ...Anyway, I guess I should do[n]what they pay me for and lecture you.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Let's see, we left off talking about[n]the properties of whole numbers...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Well, Miss Satonaka. Tell me which of [n]these don't exist.[n][f 1 1][e]

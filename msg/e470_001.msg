@@ -45,7 +45,7 @@
 [f 0 5 -258][f 2 1]I know this is off-topic, but what's the[n]point of applying for colleges outside[n]Inaba? Why even bother?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Nothing good ever comes out of competing[n]with city-folk. The countryside is all[n]you need.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Well, since this is our very first lesson,[n]why don't you show me how much you already[n]know.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Now, then... Lets talk about Marukami's[n]three part series "The Wind-Up Bird Chronicle".[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Now, then... Lets talk about Marukami's[n]three-part series, "The Wind-Up Bird Chronicle".[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hana-chan! I'm calling on you! Were you [n] even listening? [n] How many parts does the book series have?[n][f 1 1][e]
 
 [msg MES_009 [Yosuke]]

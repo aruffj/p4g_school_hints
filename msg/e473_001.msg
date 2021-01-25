@@ -6,7 +6,7 @@
 
 [msg MES_002 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Good morning! Today, I'll have you run[n]so much, you'll have sore muscles![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Hahaha! Don't look so sad! Everything[n]requires muscles, after all![n] We will make your muscles overcompensate![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Hahaha! Don't look so sad! Everything[n]requires muscles, after all![n] Making them overcompensate is important![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Why am I going to make you run until you're[n]sore? Because that's how your muscles grow[n]efficiently![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hey, [f 4 1]![n][f 1 1][e]
 
