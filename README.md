@@ -25,7 +25,7 @@ June:
 * 6/13 - To do so it needs to break down glucose without oxygen! The Greek name for that is anaerobic!
 * 6/15 - **LINE CHANGED TO:** Morals are about virtue! A groups morale is... Tell me, Hanamura! You seem to be lacking in morals!
 * 6/27 - **LINE CHANGED TO:** This class seems to be full of students without their own individual identities! - Isn't that right? ...Why the hell do you all look so upset!? Stand your ass up, [MC]!
-* 6/30 - **ANSWER CHANGED**: "Lame Duck River." to "Uphill River." (Unlogic Name; Unsure about that edit.)
+* 6/30 - **ANSWER CHANGED**: "Lame Duck River." to "Uphill River." (Illogical Name; Unsure about that edit.)
 
 July:
 * 7/13 - But beware of the Sphenopalatine ganglioneuralgia! Hahaha!- Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze!
