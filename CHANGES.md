@@ -28,7 +28,7 @@ September:
 * 9/1 - Personally, I find archery to be a great workout. Maybe I should try hunting... I could get venison from all kinds of animals! - Hey [MC]! No zoning out!
 * 9/5 - A haiku consists of five, then seven, then five syllables. Let's see... - Detective in town; the brisk fall is coming soon; carefree was this town. - Just a small haiku about our situation. All right, now why don't I test the waters with a kigo-related question?
 * 9/17 - **line change:** War is one of them and  And it doesn't matter how long or short it is. 30 years or 40 minutes; war never changes... Ahem!  - Here is a question for miss Chie... No, [MC].
-* 9/20 - ´My grandmother is a nonagenarian over 90 but she still gets out and sweats by playing gateball! - [...] - ...Oh, [MC]! Let's see if our city boy was attentive!
+* 9/20 - ´My grandmother is a nonagenarian but she still gets out and sweats by playing gateball! - [...] - ...Oh, [MC]! Let's see if our city boy was attentive!
 
 October:
 * 10/4  - **line change:**  By the way the word "anchor" was originally used in a different track-and-field sport _involving a rope_.

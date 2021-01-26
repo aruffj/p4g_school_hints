@@ -97,7 +97,7 @@
 [msg MES_017 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Good afternoooon! As I'm sure you all know,[n]yesterday was Respect For the Aged Day![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Did you all take good care of your elders?[n]I sure did![n][f 1 1][e]
-[f 0 5 -258][f 2 1]My grandmother is an nonagenarian over 90[n]but she still gets out and sweats[n]by playing gateball![n][f 1 1][e]
+[f 0 5 -258][f 2 1]My grandmother is a nonagenarian[n]but she still gets out and sweats[n]by playing gateball![n][f 1 1][e]
 [f 0 5 -258][f 2 1]I just know she's gonna live over 100[n]years! Heck, she's almost there! I wish[n]her all the best to reach 100![n][f 1 1][e]
 [f 0 5 -258][f 2 1]...Oh, [f 4 1]![n]Let's see if our city boy was attentive![n][f 1 1][e]
 
