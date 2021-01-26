@@ -158,17 +158,19 @@
 [f 0 5 -258][f 2 1]But I doubt that those who imitate others[n]have any true identity of their own![n][f 1 1][e]
 
 [msg MES_027 [Mr. Yamada]]
-[f 0 5 -258][f 2 1]Isn't the rainy season exhausting?[n]I'm sure most of you aren't even[n]motivated for this class... Right?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Isn't the rainy season exhausting?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]With all this rainfall, Samegawa[n]is starting to remind me of a river[n]I saw on TV yesterday... "Pie Pie"...?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]I'm sure most of you aren't even[n]motivated for this class... Right?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]But I've gotta say, if you keep trying,[n]something good will come of it someday.[n]...Wow, I said something inspirational.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Just try not to take things too seriously.[n]That'll only tire you out faster, right?[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]So let's take a quick break. I have an[n]interesting question for you.[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]So let's take a quick break and find out who's been listening. I have an[n]interesting question for you.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Let's see... Hmm... [f 4 2]-kun![n][f 1 1][e]
 
 [msg MES_028 [Mr. Yamada]]
 [f 0 5 -258][f 2 1]Which one of these is the name of a[n]real river?[n][f 1 1][e]
 
 [sel SEL_029]
-[f 0 5 -258][f 2 1]"Uphill River."[e]
+[f 0 5 -258][f 2 1]"Lame Duck River."[e]
 [f 0 5 -258][f 2 1]"Pis Pis River."[f 2 7 0 0 30 1][e]
 [f 0 5 -258][f 2 1]"Mahony's Phony River."[e]
 
@@ -278,7 +280,7 @@
 [msg MES_047 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]...And that's our lesson on the Saxon Wars[n]that Charlemagne brought about during the[n]8th and 9th centuries.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Speaking of Charlemagne, the king of hearts[n]in a deck of cards is supposedly modeled[n]after him.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]It seems that he was a good looking fellow.[n]Especially that smooth skin in his face...[n][f 1 1][e]
+[f 0 5 -258][f 2 1]This surprised me because his facial hair[n]looks quite different in other portraits...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]The king of hearts has a characteristic[n]that the other kings don't.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]I wonder if any of you knows what it[n]is... Well, [f 4 2].[n]Please stand up.[n][f 1 1][e]
 
@@ -312,8 +314,7 @@
 [msg MES_052 [Mr. Yamada]]
 [f 0 5 -258][f 2 1]All right, that's the lesson about the[n]Mariana Islands. Let's take a breather[n]and talk about something fun![n][f 1 1][e]
 [f 0 5 -258][f 2 1]The Mariana Islands are in the area of[n]the ocean where typhoons are born.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]There's a line on the map that typhoons[n]can never cross.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]This line also marks the middle of the Earth,[n]splitting it in two equally divided parts.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]There's a line on the map that typhoons[n]can never cross which also represents[n]the midway between Earth's geographical poles.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Let's see... [f 4 2]-kun, you've[n]blended into this class a little too well.[n][f 1 1][e]
 
 [msg MES_053 [Mr. Yamada]]
@@ -347,7 +348,7 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Anyway, I'm supposed to cover haiku[n]today. Get out your textbooks.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Haiku, unlike senryu, contain "kigo,"[n]which are words or phrases that can be[n]associated with a particular season.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]A haiku consists of five, then seven, then five[n]syllables. Let's see...[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 0 1 6]Detective in town[n]the brisk fall is comming soon[n]carefree was this town.[f 0 1 0][n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 0 1 6]Detective in town[n]the brisk fall is coming soon[n]carefree was this town.[f 0 1 0][n][f 1 1][e]
 [f 0 5 -258][f 2 1]Just a small haiku about our situation.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right, now why don't I test the waters[n]with a kigo-related question?[n][f 4 2]-chan![n][f 1 1][e]
 
@@ -376,7 +377,7 @@
 [f 0 5 -258][f 2 1]I even found some things with my dowsing[n]rod. The citizens were very glad indeed.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Time sure flies when you're having fun.[n]I'm sure your summer break was short for[n]all of you as well.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]However, don't you think that there are[n]some things in life that are best ended[n]quickly?[n][f 1 1][e]
-[f 0 5 -258][f 2 1]War is one of them. [n]And it doesn't matter how long or short it is.[n]30 years or 40 minutes: War never changes.[f 1 1][e]
+[f 0 5 -258][f 2 1]War is one of them and [n]And it doesn't matter how long or short it is.[n]30 years or 40 minutes; war never changes... Ahem![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Here is a question for miss Chie... No, [f 4 2].[n][f 1 1][e]
 
 [msg MES_063 [Ms. Sofue]]

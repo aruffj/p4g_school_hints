@@ -114,7 +114,7 @@
 [f 0 5 -258][f 2 1]Man, it's cold today. [n]We even got snow this year.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]It's tough being so cold, but snow is[n]so pure white and beautiful.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]But sometimes, snow falls in different[n]colors. Did you know that?[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Well then, I'll do Amagi-san a favor[n]and ask her this one.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Well then, I'll do Amagi-san a favor[n]and ask her this one.[n]Your taste fits the answer![n][f 1 1][e]
 [f 0 5 -258][f 2 1]What color is the snow that falls[n]in Europe in spring?[n][f 1 1][e]
 
 [msg MSG_022 [Yukiko]]

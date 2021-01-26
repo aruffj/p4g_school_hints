@@ -67,7 +67,7 @@
 [f 0 5 -258][f 2 1]You've gotta watch out for unjustified[n]resentment, guys! I'm sure you know what[n]I mean; you all watch gossip shows![n][f 1 1][e]
 [f 0 5 -258][f 2 1]You never know who has a grudge against[n]you. My advice? Train your body regularly,[n]so you can fight back![n][f 1 1][e]
 [f 0 5 -258][f 2 1]You need exercise and meat to train your body![n]Young people, eat meat![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Hunting with a bow would also be good practice.[n]And you'd get the venison from all kind of[n]wild animals as a bonus![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Personally, I find archery to be a great workout.[n]Maybe I should try hunting...[n]I could get venison from all kinds of animals![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hey, [f 4 1]! No zoning out![n][f 1 1][e]
 
 [msg MES_013 [Mr. Kondo]]
@@ -210,7 +210,7 @@
 [f 0 5 -258][f 2 1]Because the shaved ice you eat after[n]exercise is the best! Brainfreeze,[n]aww yeah! Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1]But beware of the sphenopalatine[n]ganglioneuralgia! Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Your confused expressions tell me[n]that you've never heard that! It's the medical[n]term for brainfreeze![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Were you even listening, [f 4 1]?[n]Answer me, while running![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Were you even listening, [f 4 1]?[n]Remind me, while running![n][f 1 1][e]
 
 [msg MES_038 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]What is the medical term for brainfreeze?[n][f 1 1][e]
