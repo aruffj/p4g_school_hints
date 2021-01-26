@@ -11,7 +11,7 @@ This mod was a suggestion by the excellent mod creator [rudiger_gb](https://game
 
 **Individual changes can be found [here](CHANGES.md).**
 
-## V.03:
+## V.03 - alpha:
 * Translation: Done
 * Testing: 54% Done
 
