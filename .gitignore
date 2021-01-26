@@ -1,4 +1,4 @@
-
+*.exe
 *.json
 
 *.dll
@@ -8,4 +8,4 @@ msg/msg-backup/e470_002.msg
 msg/msg-backup/e470_003.msg
 msg/msg-backup/e471_001.msg
 msg/msg-backup/e473_001.msg
-msg/PM1MessageScriptEditor.exe
+Libraries/README.md
