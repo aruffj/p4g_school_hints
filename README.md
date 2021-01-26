@@ -11,11 +11,15 @@ This mod was a suggestion by the excellent mod creator [rudiger_gb](https://game
 
 **Individual changes can be found [here](CHANGES.md).**
 
-## V.02 changes:
+## V.03:
+* Translation: Done
+* Testing: 54% Done
+
+## V.02:
 - Correction of wording after proofreading.
 - Finished Text files
 
-## V.01 changes:
+## V.01:
 - Changed/Added lines to the following date school questions. 
 
 
