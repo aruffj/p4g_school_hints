@@ -11,11 +11,11 @@ This mod was a suggestion by the excellent mod creator [rudiger_gb](https://game
 
 **Individual changes can be found [here](CHANGES.md).**
 
-## V.03 - alpha:
+## v.03 - beta:
 * Translation: Done
 * Testing: 54% Done
 
-## V.02:
+## v.02 - alpha:
 - Correction of wording after proofreading.
 - Finished Text files
 
