@@ -36,7 +36,7 @@ October:
 * 10/12 - **line change:**  Do you know which round, white vegetable was used to make the first jack-o'-lanterns? 
 
 November:
-* 11/01 - Today it is more about the upper bodys performance but in the beginning it was about "drawing with your feet"!
+* 11/01 - Today it is more about the upper bodys strenght but in the beginning it was about "drawing with your feet"!
 * 11/04 - Which is, of course, a reference to the cuckoo on the drum on Kano Hidenbu's famous painting from the Edo period. - Hmm... Who can tell me what kind of bird a kanko-dori is? You, Hana-Chan! you look like you weren't even listening!
 * 11/07 - Maybe the coldness is why nobody claimed the South Pole for their country. Hehe - [...] - **line change:**  Let's rehearse. I'll pick you, [MC]-kun,[...]
 * 11/24 - **line change:**  Here's a sequence that's even harder to count  by: 0, 1, 1, 2, 3, 5, 8, 13... which was named after an italian bloke.

@@ -153,7 +153,7 @@
 [msg MES_027 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]So the Culture Festival is over.[n]Old Man Winter is on his way![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Now we're entering the season for[n]winter sports! Figure skating's really[n]popular, isn't it?[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Today it is more about the upper bodys[n]performance but in the beginning it was[n]about "drawing with your feet"![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Today it is more about the upper bodys[n]strenght but in the beginning it was[n]about "drawing with your feet"![n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right! This may be gym class, but[n]I'm gonna give you an English lesson![n]Think of it as mental strength training![n][f 1 1][e]
 
 [msg MES_028 [Mr. Kondo]]
