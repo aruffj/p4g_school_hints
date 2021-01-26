@@ -278,7 +278,7 @@
 [msg MES_047 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]...And that's our lesson on the Saxon Wars[n]that Charlemagne brought about during the[n]8th and 9th centuries.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Speaking of Charlemagne, the king of hearts[n]in a deck of cards is supposedly modeled[n]after him.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]It seems that he was a good looking fellow.[n] Especially that smooth skin in his face...[n][f 1 1][e]
+[f 0 5 -258][f 2 1]It seems that he was a good looking fellow.[n]Especially that smooth skin in his face...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]The king of hearts has a characteristic[n]that the other kings don't.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]I wonder if any of you knows what it[n]is... Well, [f 4 2].[n]Please stand up.[n][f 1 1][e]
 
@@ -313,7 +313,7 @@
 [f 0 5 -258][f 2 1]All right, that's the lesson about the[n]Mariana Islands. Let's take a breather[n]and talk about something fun![n][f 1 1][e]
 [f 0 5 -258][f 2 1]The Mariana Islands are in the area of[n]the ocean where typhoons are born.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]There's a line on the map that typhoons[n]can never cross.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]This line also marks the middle of the[n]Earth, splitting it in two[n]equally divided parts.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]This line also marks the middle of the Earth,[n]splitting it in two equally divided parts.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Let's see... [f 4 2]-kun, you've[n]blended into this class a little too well.[n][f 1 1][e]
 
 [msg MES_053 [Mr. Yamada]]
@@ -376,7 +376,7 @@
 [f 0 5 -258][f 2 1]I even found some things with my dowsing[n]rod. The citizens were very glad indeed.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Time sure flies when you're having fun.[n]I'm sure your summer break was short for[n]all of you as well.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]However, don't you think that there are[n]some things in life that are best ended[n]quickly?[n][f 1 1][e]
-[f 0 5 -258][f 2 1]War is one of them. [n]And it doesn't matter how long or short it is.[n] 30 years or 40 minutes: War never changes.[f 1 1][e]
+[f 0 5 -258][f 2 1]War is one of them. [n]And it doesn't matter how long or short it is.[n]30 years or 40 minutes: War never changes.[f 1 1][e]
 [f 0 5 -258][f 2 1]Here is a question for miss Chie... No, [f 4 2].[n][f 1 1][e]
 
 [msg MES_063 [Ms. Sofue]]

@@ -6,7 +6,7 @@
 
 [msg MES_002 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Good morning! Today, I'll have you run[n]so much, you'll have sore muscles![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Hahaha! Don't look so sad! Everything[n]requires muscles, after all![n] Making them overcompensate is important![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Hahaha! Don't look so sad! Everything[n]requires muscles, after all![n]Making them overcompensate is important![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Why am I going to make you run until you're[n]sore? Because that's how your muscles grow[n]efficiently![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hey, [f 4 1]![n][f 1 1][e]
 
@@ -67,7 +67,7 @@
 [f 0 5 -258][f 2 1]You've gotta watch out for unjustified[n]resentment, guys! I'm sure you know what[n]I mean; you all watch gossip shows![n][f 1 1][e]
 [f 0 5 -258][f 2 1]You never know who has a grudge against[n]you. My advice? Train your body regularly,[n]so you can fight back![n][f 1 1][e]
 [f 0 5 -258][f 2 1]You need exercise and meat to train your body![n]Young people, eat meat![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Hunting with a bow would also be good practice.[n]And you'd get the venison[n]from all kind of wild animals as a bonus![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Hunting with a bow would also be good practice.[n]And you'd get the venison from all kind of[n]wild animals as a bonus![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hey, [f 4 1]! No zoning out![n][f 1 1][e]
 
 [msg MES_013 [Mr. Kondo]]
@@ -97,9 +97,9 @@
 [msg MES_017 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Good afternoooon! As I'm sure you all know,[n]yesterday was Respect For the Aged Day![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Did you all take good care of your elders?[n]I sure did![n][f 1 1][e]
-[f 0 5 -258][f 2 1]My grandmother is over 90 - so a nonagenarian - but she still[n]gets out and sweats by playing gateball![n][f 1 1][e]
+[f 0 5 -258][f 2 1]My grandmother is an nonagenarian over 90[n]but she still gets out and sweats[n]by playing gateball![n][f 1 1][e]
 [f 0 5 -258][f 2 1]I just know she's gonna live over 100[n]years! Heck, she's almost there! I wish[n]her all the best to reach 100![n][f 1 1][e]
-[f 0 5 -258][f 2 1]...Oh, [f 4 1]! Let's see if our city boy was attentive![n][f 1 1][e]
+[f 0 5 -258][f 2 1]...Oh, [f 4 1]![n]Let's see if our city boy was attentive![n][f 1 1][e]
 
 [msg MES_018 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]What do you call somebody who's between[n]ninety and one hundred years old?[n][f 1 1][e]
@@ -208,7 +208,9 @@
 [f 0 5 -258][f 2 1]We're gonna play rugby! And don't even[n]think about getting lazy because it's hot![n][f 1 1][e]
 [f 0 5 -258][f 2 1]It's hot! It's hot, but run! Keep running![n]Sweat! And then, eat shaved ice![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Because the shaved ice you eat after[n]exercise is the best! Brainfreeze,[n]aww yeah! Hahaha![n][f 1 1][e]
-[f 0 5 -258][f 2 1]You seem to be cool, [f 4 1]![n]Answer me, while running![n][f 1 1][e]
+[f 0 5 -258][f 2 1]But beware of the sphenopalatine[n]ganglioneuralgia! Hahaha![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Your confused expressions tell me[n]that you've never heard that! It's the medical[n]term for brainfreeze![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Were you even listening, [f 4 1]?[n]Answer me, while running![n][f 1 1][e]
 
 [msg MES_038 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]What is the medical term for brainfreeze?[n][f 1 1][e]

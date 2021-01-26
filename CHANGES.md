@@ -19,7 +19,7 @@ June:
 * 6/30 - **ANSWER CHANGED**: "Lame Duck River." to "Uphill River." (Illogical Name; Unsure about that edit.)
 
 July:
-* 7/13 - But beware of the Sphenopalatine ganglioneuralgia! Hahaha!- Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze!
+* 7/13 - But beware of the sphenopalatine ganglioneuralgia! Hahaha!- Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze!
 * 7/15 - This line also marks the middle of the Earth, splitting it in two equally divided parts.
 * 7/16 - It seems that he was a good looking fellow. Especially that smooth skin in his face..
 
@@ -27,7 +27,7 @@ September:
 * 9/1 - Hunting with a bow would also be good practice. And you'd get the venison from all kind of wild animals as a bonus! - Hey [MC] No zoning out!
 * 9/5 - A haiku consists of five, then seven, then five syllables. Let's see... - Detective in town; the brisk fall is comming soon; carefree was this town. - Just a small haiku about our situation. All right, now why don't I test the waters with a kigo-related question?
 * 9/17 - **LINE CHANGED TO:** War is one of them. And it doesn't matter how long or short is. 30 years or 40 minutes: War never changes. - Here is a question for miss Chie... No, [MC].
-* 9/20 - ´My grandmother is over 90 - so a nonagenarian - but she still gets out and sweats by playing gateball! - [...] - ...Oh, [MC]! Let's see if our city boy was attentive!
+* 9/20 - ´My grandmother is a nonagenarian over 90 but she still gets out and sweats by playing gateball! - [...] - ...Oh, [MC]! Let's see if our city boy was attentive!
 
 October:
 * 10/4  - **LINE CHANGED TO:** By the way the word "anchor" was originally used in a different track-and-field sport _involving a rope_.

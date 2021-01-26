@@ -7,7 +7,7 @@ It is aimed to keep the original spirit alive so I've tried to add lines where p
 This mod was a suggestion by the excellent mod creator [rudiger_gb](https://gamebanana.com/members/1491857)! Make sure to check out his work. Thanks again for the intro into the tools and even more for proofreading. :) 
 
 ## ToDo:
-* Gameplay testing
+* Gameplay testing (19/35 Done)
 
 **Individual changes can be found [here](CHANGES.md).**
 
