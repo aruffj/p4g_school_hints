@@ -153,6 +153,7 @@
 [msg MES_027 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]So the Culture Festival is over.[n]Old Man Winter is on his way![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Now we're entering the season for[n]winter sports! Figure skating's really[n]popular, isn't it?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Today it is more about the upper bodys[n]performance but in the beginning it was[n]about "drawing with your feet"![n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right! This may be gym class, but[n]I'm gonna give you an English lesson![n]Think of it as mental strength training![n][f 1 1][e]
 
 [msg MES_028 [Mr. Kondo]]
@@ -176,6 +177,7 @@
 [msg MSG_032 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]It's still foggy all over town, but,[n]believe it or not, harsh weather makes[n]your body stronger![n][f 1 1][e]
 [f 0 5 -258][f 2 1]I heard that on TV yesterday, and I'm[n]pretty sure that's right![n][f 1 1][e]
+[f 0 5 -258][f 2 1]They also had an interesting segment[n]about how the structural roundness determines[n]if hair is straight or curled.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]But man, with all this fog, I bet people[n]with curly hair are having a hard time[n]keeping their 'dos neat![n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right! Here's a question about hair.[n][f 4 1], you're looking at me, so[n]this question is for you![n][f 1 1][e]
 

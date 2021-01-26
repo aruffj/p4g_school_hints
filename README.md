@@ -7,7 +7,8 @@ It is aimed to keep the original spirit alive so I've tried to add lines where p
 This mod was a suggestion by the excellent mod creator [rudiger_gb](https://gamebanana.com/members/1491857)! Make sure to check out his work. Thanks again for the intro into the tools and even more for proofreading. :) 
 
 ## V.02 changes:
-- Correction of wording after proofreading. 
+- Correction of wording after proofreading.
+- Finished Text files
 
 ## V.01 changes:
 - Changed/Added lines to the following date school questions. 
@@ -37,7 +38,7 @@ June:
 July:
 * 7/13 - But beware of the Sphenopalatine ganglioneuralgia! Hahaha!- Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze!
 * 7/15 - This line also marks the middle of the Earth, splitting it in two equally divided parts.
-* 7/16 - It seems that he was a good looking fellow. Especially that smooth skin in his face...
+* 7/16 - It seems that he was a good looking fellow. Especially that smooth skin in his face..
 
 September:
 * 9/1 - Hunting with a bow would also be good practice. And you'd get the venison from all kind of wild animals as a bonus! - Hey [MC] No zoning out!
@@ -50,7 +51,24 @@ October:
 * 10/11 - **LINE CHANGED TO:** Napoleon went on many military campaigns, and had needed something to _contain the food for his soldiers._ - He held a competition to invent containers made out of gla... No, [MC] would you stand up, please?
 * 10/12 - **LINE CHANGED TO:** Do you know which round, white vegetable was used to make the first jack-o'-lanterns? 
 
+November:
+* 11/01 - Today it is more about the upper bodys performance but in the beginning it was about "drawing with your feet"!
+* 11/04 - Which is, of course, a reference to the cuckoo on the drum on Kano Hidenbu's famous painting from the Edo period. - Hmm... Who can tell me what kind of bird a kanko-dori is? You, Hana-Chan! you look like you weren't even listening!
+* 11/07 - Maybe the coldness is why nobody claimed the South Pole for their country. Hehe - [...] - **LINE CHANGED TO:** Let's rehearse. I'll pick you, [MC]-kun,[...]
+* 11/24 - **LINE CHANGED TO:** Here's a sequence that's even harder to count  by: 0, 1, 1, 2, 3, 5, 8, 13... which was named after an italian bloke.
+* 11/25 - I'll make sure that your tomb is smaller than Khufus pyramid.
+* 11/26 - **LINE CHANGED TO:** All right! I'll ask a trick question regarding japanese cakes, [MC]!
+
+December:
+* 12/9 - **LINE CHANGED TO:** Fuzzy-wuzzy polar bears... Their fur is actually transparent, you know. - [...] Did you hear what I said about which color a fuzzy-wuzzy polar bear's fur really is? 
+* 12/10 - They also had an interesting segment about how the structural roundness determines if hair is straight or curled. 
+* 12/21 - **LINE CHANGED TO** I wouldn't say I'd be as beautiful as Cleopatra the sevenths, but I have to make myself somewhat presentable. 
+
+January:
+* 1/10 - I hope you didn't cut short on the fruits, especially oranges! Vitamin C is really important for you, especially in winter! - **LINE CHANGED TO:** Speaking about oranges - I completely forgot to get the kagami mochi!
+* 1/14 - It felt like I burried a demon in my head.
+* 1/19 - In the Thai and Vietnamese zodiacs, which little predator is used in the place of the rabbit? 
+* 1/25 - **LINE CHANGED TO:** Well then, I'll do Amagi-san a favor and ask her this one. Your taste fits the answer!
 
 ## ToDo:
-* October to January Texts
 * Gameplay testing

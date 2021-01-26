@@ -468,7 +468,7 @@
 [f 0 5 -258][f 2 1]Hmm... Satonaka-san, I'll pick you,[n]since you don't seem to care about veggies![n]...Nah, I'll choose [f 4 1]-kun![n][f 1 1][e]
 
 [msg MES_078 [Mrs. Nakayama]]
-[f 0 5 -258][f 2 1]Do you know what vegetable was used to[n]make the first jack-o'-lanterns?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Do you know which round, white vegetable was used to[n]make the first jack-o'-lanterns?[n][f 1 1][e]
 
 [sel SEL_079]
 [f 0 5 -258][f 2 1]"Turnips."[f 2 7 0 0 30 1][e]
@@ -488,8 +488,8 @@
 
 [msg MES_082 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]...Now, please take a look at the second[n]page of the handout. It's about Napoleon.[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Napoleon went on many military campaigns,[n]and needed something very specific.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Napoleon had these made... [f 4 2],[n]would you stand up, please?[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Napoleon went on many military campaigns,[n]and needed something to contain the food for his soldiers.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]He held a competition to invent containers made out of gla... No,[f 4 2],[n] would you stand up, please?[n][f 1 1][e]
 
 [msg MES_083 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]What did Napoleon have invented?[n][f 1 1][e]
@@ -522,11 +522,12 @@
 
 [msg MSG_087 [Mr. Yamada]]
 [f 0 5 -258][f 2 1]...And that's why the South Pole is colder[n]than the North Pole.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Maybe the coldness is why nobody claimed the[n] South Pole for their country.[n]Hehe[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Speaking of cold, it got cold really[n]quickly this year. Remember to wear[n]extra layers so you don't get sick. [n][f 1 1][e]
 [f 0 5 -258][f 2 1]But ladies, it's no good to wear warm-ups[n]under your skirts. ...Why? Because no one[n]can see your legs...[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Er, that was a joke. Just my way of[n]reminding you all to wear your school[n]uniforms, got it?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right, back on topic. I'll ask a[n]question about the South Pole.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]I'll pick you, [f 4 2]-kun, since[n]you don't even button the front of your[n]uniform in cold weather![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Let's rehearse. I'll pick you, [f 4 2]-kun, since[n]you don't even button the front of your[n]uniform in cold weather![n][f 1 1][e]
 
 [msg MSG_088 [Mr. Yamada]]
 [f 0 5 -258][f 2 1]Which country do you think the South Pole[n]belongs to?[n][f 1 1][e]
@@ -614,7 +615,7 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Days like these, I just want to spend all[n]day counting my money at home.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]2, 4, 6, 8, 10. It's easy to count when[n]you use a sequence of numbers with a[n]common difference.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]2, 4, 8, 16, 32...[n]Numbers with geometric progression are[n]more difficult to count by.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Here's a sequence that's even harder to[n]count by: 0, 1, 1, 2, 3, 5, 8, 13...[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Here's a sequence that's even harder to[n]count  by: 0, 1, 1, 2, 3, 5, 8, 13...[n] which was named after an italian bloke.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 2]-kun, can you answer this?[n][f 1 1][e]
 
 [msg MSG_103 [Mrs. Nakayama]]
@@ -648,6 +649,7 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Of course, if my house was as nice as[n]one of the ancient pyramids, I probably[n]wouldn't complain about it so much...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]But mummies are already dead, so they[n]don't have anything to worry about.[n]You, however, have tests coming up![n][f 1 1][e]
 [f 0 5 -258][f 2 1]And if you failed the last exams, you[n]have even more cause for concern! I don't[n]want to see you haunting these halls![n][f 1 1][e]
+[f 0 5 -258][f 2 1]I'll make sure that your tomb is smaller than[n]Khufus pyramid.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]...Well then, [f 4 2]-chan.[n]I've got a question for you.[n][f 1 1][e]
 
 [msg MSG_108 [Mr. Hosoi]]
@@ -676,7 +678,7 @@
 [f 0 5 -258][f 2 1]Are you exhausted from studying for the[n]test around the corner? I hope you're not[n]forgetting something...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Christmas is coming up in a month![n]Have you found your dates yet?[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Hahaha, I've got mine already! Tell ya[n]what! I'll give you guys a Christmas[n]question![n][f 1 1][e]
-[f 0 5 -258][f 2 1]All right! I'll ask a question regarding[n]cakes, [f 4 1]![n][f 1 1][e]
+[f 0 5 -258][f 2 1]All right! I'll ask a trick[n]question regarding japanese [n]cakes, [f 4 1]![n][f 1 1][e]
 
 [msg MSG_113 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Which of these is considered a[n]"rice cake"?[n][f 1 1][e]
