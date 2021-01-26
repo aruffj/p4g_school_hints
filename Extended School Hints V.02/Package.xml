@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Extended School Hints</name>
+  <id>arcas.extendedschoolhints</id>
+  <author>arcas</author>
+  <version>V.02</version>
+  <link>https://github.com/aruffj/p4g_school_hints</link>
+  <description>The mod aims to allow first timers to get the school questions right without using guides. Currently untested.</description>
+</Metadata>

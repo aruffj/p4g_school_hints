@@ -706,11 +706,11 @@
 [msg MSG_117 [Ms. Kashiwagi]]
 [f 0 5 -258][f 2 1][f 4 6 17 2 0 1]It sure is getting cold, as we move[n]into December. The fog's not lifting,[n]either, so be sure to stay healthy.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I was just watching something on TV...[n]Those polar bears sure are active, even[n]in the cold.[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Fuzzy-wuzzy polar bears... Their fur[n]isn't actually white, you know.[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Fuzzy-wuzzy polar bears... Their fur[n]is actually transparent, you know.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Isn't that right, [f 4 2]-kun?[n]You seem happy about something.[n][f 1 1][e]
 
 [msg MSG_118 [Ms. Kashiwagi]]
-[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]Do you know what color a fuzzy-wuzzy[n]polar bear's fur really is?[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]Did you hear what I said about which[n]color a fuzzy-wuzzy[n]polar bear's fur really is?[n][f 1 1][e]
 
 [sel SEL_119]
 [f 0 5 -258][f 2 1]"Transparent."[f 2 7 0 0 30 1][e]
@@ -800,7 +800,7 @@
 
 [msg MES_133 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]The western calendar is based on[n]Anno Domini, the traditionally believed[n]year of Jesus Christ's birth.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]The years before this are referred to as "Before Christ"; a label which is similarly abbreviated.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]The years before this are referred[n]to as "Before Christ"; a label which is[n]similarly abbreviated.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]What is the year before 1 AD called?[n][f 1 1][e]
 
 [sel SEL_134]
@@ -832,7 +832,8 @@
 [f 0 5 -258][f 2 1]Happy New Year, everybody! I sure hope[n]that this year will be just as great as[n]the last year![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Did you all get to celebrate the new year[n]in the proper way? By that, I mean did you[n]get to eat all the right foods?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I had zoni, osechi, and, of course,[n]the toshikoshi noodles! You've got to have[n]toshikoshi while the calendar's changing![n][f 1 1][e]
-[f 0 5 -258][f 2 1]But, I completely forgot to get the[n]kagami mochi! Even if you don't eat[n]it, that's important too, right?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]I hope you didn't cut short on the fruits,[n]especially oranges! Vitamin C is really[n]important for you, especially in winter![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Speaking about oranges - I completely forgot to[n]get the kagami mochi! Even if you don't eat[n]it, that's important too, right?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I was in a rush, okay? But I figure[n]that I can't be the only one who[n]didn't ring in the new year right![n][f 1 1][e]
 [f 0 5 -258][f 2 1]So... Amagi! No, wait, you look like[n]you'd know... [f 4 1]![n][f 1 1][e]
 
@@ -859,6 +860,7 @@
 [msg MES_144 [Mr. Hosoi]]
 [f 0 5 -258][f 2 1]Let's get ready for the first lecture[n]of the day. Did you all get to relax[n]during your winter break?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I had too much to drink during a new[n]year's party, so I was hung over all[n]New Year's Day.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]It felt like I burried a demon in my head.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]While we're on the subject of alcoholic[n]beverages, there's something interesting[n]about the toso we drink on New Year's.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Who might know this...?[n][f 4 2]-chan![n][f 1 1][e]
 
@@ -892,7 +894,7 @@
 [f 0 5 -258][f 2 1]Do you know any, [f 4 2]-kun?[n][f 1 1][e]
 
 [msg MES_150 [Ms. Kashiwagi]]
-[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]In the Thai and Vietnamese zodiacs, which[n]animal is used in the place of the rabbit?[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]In the Thai and Vietnamese zodiacs, which[n]little predator is used in the place of the rabbit?[n][f 1 1][e]
 
 [sel SEL_151]
 [f 0 5 -258][f 2 1]"Elephant."[e]
