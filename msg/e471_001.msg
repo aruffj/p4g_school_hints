@@ -678,8 +678,9 @@
 [f 0 5 -258][f 2 1]Good morning! What's up, you guys?[n]You don't look so well.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Are you exhausted from studying for the[n]test around the corner? I hope you're not[n]forgetting something...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Christmas is coming up in a month![n]Have you found your dates yet?[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Hahaha, I've got mine already! Tell ya[n]what! I'll give you guys a Christmas[n]question![n][f 1 1][e]
-[f 0 5 -258][f 2 1]All right! I'll ask a trick[n]question regarding japanese [n]cakes, [f 4 1]![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Hahaha, I've got mine[n]already! Tell ya what! She's the girl I[n]am going to eat my new years Mochi with![n][f 1 1][e]
+[f 0 5 -258][f 2 1]She calls me her "beefcake" because she[n]likes how fit I am. Not every cake has to be sweet.[n]Hahaha![n][f 1 1][e]
+[f 0 5 -258][f 2 1]All right! I'll ask a trick[n]question regarding japanese christmas [n]cakes, [f 4 1]![n][f 1 1][e]
 
 [msg MSG_113 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]Which of these is considered a[n]"rice cake"?[n][f 1 1][e]
