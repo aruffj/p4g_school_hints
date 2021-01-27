@@ -12,7 +12,7 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]We'll start with the basics of the[n]basics: the English alphabet![n][f 1 1][e]
 [f 0 5 -258][f 2 1]It starts with the letter A, then B,[n]then C, and then... 23 more! Maybe[n]that was a little too basic? Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Interestingly enough the word comes[n] from the first two Greek letters:[n]"alpha" and "beta".[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]All right! Did you hear me back there?[n]Let's see who was listening... [f 4 1]![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]All right! Did you hear me back there?[n]Let's see who paid attention... [f 4 1]![n][f 1 1][e]
 
 [msg MES_003 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]The word "alphabet" comes from the[n]words "alpha" and what other one?[n][f 1 1][e]

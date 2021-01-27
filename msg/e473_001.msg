@@ -210,7 +210,7 @@
 [f 0 5 -258][f 2 1]Because the shaved ice you eat after[n]exercise is the best! Brainfreeze,[n]aww yeah! Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1]But beware of the sphenopalatine[n]ganglioneuralgia! Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Your confused expressions tell me[n]that you've never heard that! It's the medical[n]term for brainfreeze![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Were you even listening, [f 4 1]?[n]Remind me, while running![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 1]-kun - Remind me, while running![n][f 1 1][e]
 
 [msg MES_038 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]What is the medical term for brainfreeze?[n][f 1 1][e]

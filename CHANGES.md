@@ -2,8 +2,8 @@ Dates are referencing the game format. (MM/DD)
 "-" will not be shown in game, they seperate text boxes here.
 
 April:
-* 4/14 - Accordingly, the years are counted backwards before. Also they weren't shortened to AD.
-* 4/18 - Interestingly enough the word comes from the first two Greek letters: "alpha" and "beta". - Did you hear me back there? All right! Let's see who was listening...
+* 4/14 - The years before this are referred to as "Before Christ"; a label which is similarly abbreviated. 
+* 4/18 - Interestingly enough the word comes from the first two Greek letters: "alpha" and "beta". - Did you hear me back there? All right! Did you hear me back there? Let's see who paid attention
 * 4/20 - **line change:**  Now, then... Lets talk about Marukami's three-part series, "The Wind-Up Bird Chronicle". - Hana-Chan! I'm calling on you! Were you even listening? How many parts does the book series have?
 * 4/25 - Hahaha! Don't look so sad! Everything requires muscles, after all! Making them overcompensate is important!
 * 4/26 - It's even common for marriages to break up because of money issues. Luckily there aren't any "marriage" numbers in math.
@@ -20,7 +20,7 @@ June:
 * 6/30 - Isn't the rainy season exhausting? - With all this rainfall, Samegawa is starting to remind me of a river -  I saw on TV yesterday... "Pie Pie"...? I'm sure most of you aren't even motivated for this class... Right? - [...] - So let's take a quick break and find out who's been listening. I have an interesting question for you.
 
 July:
-* 7/13 - But beware of the sphenopalatine ganglioneuralgia! Hahaha! - Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze! - Were you listening, [MC]? Remind me, while running!
+* 7/13 - But beware of the sphenopalatine ganglioneuralgia! Hahaha! - Your confused expressions tell me that you've never heard that! It's the medical term for brainfreeze! -  [MC]-kun -  Remind me, while running!
 * 7/15 - There's a line on the map that typhoons can never cross which also represents the midway between Earth's geographical poles.
 * 7/16 - This surprised me because his facial hair looks quite different in other portraits...
 
