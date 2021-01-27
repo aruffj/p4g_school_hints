@@ -245,13 +245,13 @@
 [msg MSG_038 [Female student]]
 [f 0 5 -258][f 2 1][f 4 9 900 0 0 -1 0]Hey, Hosoi-chan. You were at Yomenaido[n]Bookstore the other day, weren't you?[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 1 5]Mr. Hosoi[n][f 4 9 900 3 5 0 5]Whoah!? You saw me!? I was buying the[n]latest Bullied Teacher.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]The shopping district is getting empty[n]with Junes taking all their business... You[n]could hear a kanko-dori chirp over there.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Which is, of course, a reference to the "cuckoo[n]on the drum" on Kano Hidenbu's[n] famous painting from the Edo period.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]The shopping district is getting empty[n]with Junes taking all their business...[n][f 1 1][e]
+[f 0 5 -258][f 2 1]It's so quiet I could even hear a faint[n]"cuck-oo" echoing in the distance.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hey, kids. Quit going to Junes so often.[n]Visit your local shopping district, too![n][f 1 1][e]
-[f 0 5 -258][f 2 1]Hmm... Who can tell me what kind of bird[n]a kanko-dori is? Hana-chan! You look[n]like you weren't even listening![n][f 1 1][e]
+[f 0 5 -258][f 2 1]Hmm... Hanamura-chan since you are[n]kind of involved here - do you know[n]which bird I could hear?[n][f 1 1][e]
 
 [msg MSG_039 [Yosuke]]
-[f 0 5 -258][f 2 1][f 4 6 2 5 -1 1]Wait, there's really a bird called the[n]kanko-dori? I thought it was just a saying![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 6 2 5 -1 1]Wait, he was speaking about birds!?[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 6 2 4 -1 1]Sorry, [f 4 2].[n]I have no idea.[n][f 1 1][e]
 
 [sel SEL_040]

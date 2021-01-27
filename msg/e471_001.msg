@@ -523,7 +523,7 @@
 
 [msg MSG_087 [Mr. Yamada]]
 [f 0 5 -258][f 2 1]...And that's why the South Pole is colder[n]than the North Pole.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Maybe the coldness is why nobody claimed the[n] South Pole for their country.[n]Hehe[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Maybe the coldness is why nobody claimed the[n] South Pole for their country.[n]Haha[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Speaking of cold, it got cold really[n]quickly this year. Remember to wear[n]extra layers so you don't get sick. [n][f 1 1][e]
 [f 0 5 -258][f 2 1]But ladies, it's no good to wear warm-ups[n]under your skirts. ...Why? Because no one[n]can see your legs...[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Er, that was a joke. Just my way of[n]reminding you all to wear your school[n]uniforms, got it?[n][f 1 1][e]
@@ -616,7 +616,7 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Days like these, I just want to spend all[n]day counting my money at home.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]2, 4, 6, 8, 10. It's easy to count when[n]you use a sequence of numbers with a[n]common difference.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]2, 4, 8, 16, 32...[n]Numbers with geometric progression are[n]more difficult to count by.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Here's a sequence that's even harder to[n]count  by: 0, 1, 1, 2, 3, 5, 8, 13...[n] which was named after an italian bloke.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Here's a sequence that's even harder to[n]count  by: 0, 1, 1, 2, 3, 5, 8, 13...[n] which was named after an italian man.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 2]-kun, can you answer this?[n][f 1 1][e]
 
 [msg MSG_103 [Mrs. Nakayama]]
