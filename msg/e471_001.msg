@@ -834,7 +834,7 @@
 [f 0 5 -258][f 2 1]Happy New Year, everybody! I sure hope[n]that this year will be just as great as[n]the last year![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Did you all get to celebrate the new year[n]in the proper way? By that, I mean did you[n]get to eat all the right foods?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I had zoni, osechi, and, of course,[n]the toshikoshi noodles! You've got to have[n]toshikoshi while the calendar's changing![n][f 1 1][e]
-[f 0 5 -258][f 2 1]I hope you didn't cut short on the fruits,[n]especially oranges! Vitamin C is really[n]important for you, especially in winter![n][f 1 1][e]
+[f 0 5 -258][f 2 1]I hope you didn't forget to eat fruits,[n]especially oranges! Vitamin C is really[n]important for you, especially in winter![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Speaking about oranges - I completely forgot to[n]get the kagami mochi! Even if you don't eat[n]it, that's important too, right?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I was in a rush, okay? But I figure[n]that I can't be the only one who[n]didn't ring in the new year right![n][f 1 1][e]
 [f 0 5 -258][f 2 1]So... Amagi! No, wait, you look like[n]you'd know... [f 4 1]![n][f 1 1][e]
@@ -862,7 +862,7 @@
 [msg MES_144 [Mr. Hosoi]]
 [f 0 5 -258][f 2 1]Let's get ready for the first lecture[n]of the day. Did you all get to relax[n]during your winter break?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I had too much to drink during a new[n]year's party, so I was hung over all[n]New Year's Day.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]It felt like I burried a demon in my head.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]It felt like I burried a demon in my head.[n]*sigh*[n]I can still feel it.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]While we're on the subject of alcoholic[n]beverages, there's something interesting[n]about the toso we drink on New Year's.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Who might know this...?[n][f 4 2]-chan![n][f 1 1][e]
 

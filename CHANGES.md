@@ -46,10 +46,10 @@ November:
 December:
 * 12/9 - **line change:**  Fuzzy-wuzzy polar bears... Their fur is actually transparent, you know. - [...] Did you hear what I said about which color a fuzzy-wuzzy polar bear's fur really is? 
 * 12/10 - They also had an interesting segment about how the structural roundness determines if hair is straight or curled. 
-* 12/21 - **LINE CHANGED TO** I wouldn't say I'd be as beautiful as Cleopatra the sevenths, but I have to make myself somewhat presentable. 
+* 12/21 - **LINE CHANGED TO** I wouldn't say I'd be as beautiful as Cleopatra the seventh, but I have to make myself somewhat presentable. 
 
 January:
-* 1/10 - I hope you didn't cut short on the fruits, especially oranges! Vitamin C is really important for you, especially in winter! - **line change:**  Speaking about oranges - I completely forgot to get the kagami mochi!
-* 1/14 - It felt like I burried a demon in my head.
+* 1/10 - I hope you didn't forget to eat fruits, especially oranges! Vitamin C is really important for you, especially in winter! - **line change:**  Speaking about oranges - I completely forgot to get the kagami mochi!
+* 1/14 - It felt like I burried a demon in my head. *sigh* I can still feel it.
 * 1/19 - In the Thai and Vietnamese zodiacs, which little predator is used in the place of the rabbit? 
 * 1/25 - **line change:**  Well then, I'll do Amagi-san a favor and ask her this one. Your taste fits the answer!
