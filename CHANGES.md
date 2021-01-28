@@ -50,6 +50,6 @@ December:
 
 January:
 * 1/10 - I hope you didn't forget to eat fruits, especially oranges! Vitamin C is really important for you, especially in winter! - **line change:**  Speaking about oranges - I completely forgot to get the kagami mochi!
-* 1/14 - It felt like I burried a demon in my head. *sigh* I can still feel it.
+* 1/14 - It felt like I burried a demon in my head. \*sigh\* I can still feel it.
 * 1/19 - In the Thai and Vietnamese zodiacs, which little predator is used in the place of the rabbit? 
 * 1/25 - **line change:**  Well then, I'll do Amagi-san a favor and ask her this one. Your taste fits the answer!
