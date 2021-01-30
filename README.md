@@ -29,4 +29,7 @@ This mod was a suggestion by the excellent mod creator [rudiger_gb](https://game
 ## V.01:
 - Changed/Added lines to the following date school questions. 
 
+# License
+Creative Commons CC BY-NC 4.0
+
 
