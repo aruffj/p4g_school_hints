@@ -125,7 +125,7 @@
 [f 0 5 -258][f 2 1]All right, great baton work! It's the most[n]important part of a relay! Keep practicing![n][f 1 1][e]
 [f 0 5 -258][f 2 1]It doesn't matter how fast you run![n]If you drop the baton, you'll lose[n]valuable time![n][f 1 1][e]
 [f 0 5 -258][f 2 1]Just keep passing that baton until you[n]reach the anchor! It's fundamental, but[n]difficult! Hahaha![n][f 1 1][e]
-[f 0 5 -258][f 2 1]By the way the word "anchor" was originally[n]used in a different track-and-field sport involving a rope.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]By the way the word "anchor"[n]was originally used in a different[n]track-and-field sport involving a rope.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Hmmm... How about a question for[n][f 4 1]!?[n][f 1 1][e]
 
 [msg MES_023 [Mr. Kondo]]
@@ -177,7 +177,7 @@
 [msg MSG_032 [Mr. Kondo]]
 [f 0 5 -258][f 2 1]It's still foggy all over town, but,[n]believe it or not, harsh weather makes[n]your body stronger![n][f 1 1][e]
 [f 0 5 -258][f 2 1]I heard that on TV yesterday, and I'm[n]pretty sure that's right![n][f 1 1][e]
-[f 0 5 -258][f 2 1]They also had an interesting segment[n]about how the structural roundness determines[n]if hair is straight or curled.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]They also had an interesting segment[n]about how the roundness of individual hairs[n]determines if hair is straight or curled.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]But man, with all this fog, I bet people[n]with curly hair are having a hard time[n]keeping their 'dos neat![n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right! Here's a question about hair.[n][f 4 1], you're looking at me, so[n]this question is for you![n][f 1 1][e]
 

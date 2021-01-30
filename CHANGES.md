@@ -39,17 +39,17 @@ November:
 * 11/01 - Today it is more about the upper bodys strenght but in the beginning it was about "drawing with your feet"!
 * 11/04 - Which is, of course, a reference to the "cuckoo on the drum" on Kano Hidenbu's famous painting from the Edo period. - Hmm... Who can tell me what kind of bird a kanko-dori is? Hana-Chan! you look like you weren't even listening!
 * 11/07 - Maybe the coldness is why nobody claimed the South Pole for their country. Haha - [...] - **line change:**  Let's rehearse. I'll pick you, [MC]-kun,[...]
-* 11/24 - **line change:**  Here's a sequence that's even harder to count  by: 0, 1, 1, 2, 3, 5, 8, 13... which was named after an italian man.
+* 11/24 - **line change:**  Here's a sequence that's even harder to count  by: 0, 1, 1, 2, 3, 5, 8, 13... which was named after an italian geezer.
 * 11/25 - I'll make sure that your tomb is smaller than Khufus pyramid.
 * 11/26 - **line change:**  Hahaha, I've got mine already! Tell ya what! She's the girl I am going to eat my new years Mochi with! - She calls me her "beefcake" because she likes how fit I am. Not every cake has to be sweet. Hahaha! - All right! I'll ask a trick question regarding japanese christmas  cakes, [MC]!
 
 December:
 * 12/9 - **line change:**  Fuzzy-wuzzy polar bears... Their fur is actually transparent, you know. - [...] Did you hear what I said about which color a fuzzy-wuzzy polar bear's fur really is? 
-* 12/10 - They also had an interesting segment about how the structural roundness determines if hair is straight or curled. 
+* 12/10 - They also had an interesting segment about how the roundness of individual hairs determines if hair is straight or curled.  
 * 12/21 - **LINE CHANGED TO** I wouldn't say I'd be as beautiful as Cleopatra the seventh, but I have to make myself somewhat presentable. 
 
 January:
 * 1/10 - I hope you didn't forget to eat fruits, especially oranges! Vitamin C is really important for you, especially in winter! - **line change:**  Speaking about oranges - I completely forgot to get the kagami mochi!
 * 1/14 - It felt like I burried a demon in my head. \*sigh\* I can still feel it.
-* 1/19 - In the Thai and Vietnamese zodiacs, which little predator is used in the place of the rabbit? 
+* 1/19 - What do you think? Which tiny predator is used in Thai and Vietnamese zodiacs?  
 * 1/25 - **line change:**  Well then, I'll do Amagi-san a favor and ask her this one. Your taste fits the answer!

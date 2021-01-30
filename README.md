@@ -11,6 +11,11 @@ This mod was a suggestion by the excellent mod creator [rudiger_gb](https://game
 
 **Individual changes can be found [here](CHANGES.md).**
 
+## v.1.0
+* Extending texts: Done
+* Testing: Done
+
+
 ## v.03.1
 * Extending texts: Done
 * Testing: 54% Done

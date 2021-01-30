@@ -469,7 +469,7 @@
 [f 0 5 -258][f 2 1]Hmm... Satonaka-san, I'll pick you,[n]since you don't seem to care about veggies![n]...Nah, I'll choose [f 4 1]-kun![n][f 1 1][e]
 
 [msg MES_078 [Mrs. Nakayama]]
-[f 0 5 -258][f 2 1]Do you know which round, white vegetable was used to[n]make the first jack-o'-lanterns?[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Do you know which round, white vegetable[n]was used to make the first jack-o'-lanterns?[n][f 1 1][e]
 
 [sel SEL_079]
 [f 0 5 -258][f 2 1]"Turnips."[f 2 7 0 0 30 1][e]
@@ -489,8 +489,8 @@
 
 [msg MES_082 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]...Now, please take a look at the second[n]page of the handout. It's about Napoleon.[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Napoleon went on many military campaigns,[n]and needed something to contain the food for his soldiers.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]He held a competition to invent containers made out of gla... No,[f 4 2],[n] would you stand up, please?[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Napoleon went on many military[n]campaigns, and needed something[n]to contain the food for his troops.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]He held a competition to invent[n]containers made out of gla...[n]No, [f 4 2],would you stand up, please?[n][f 1 1][e]
 
 [msg MES_083 [Ms. Sofue]]
 [f 0 5 -258][f 2 1]What did Napoleon have invented?[n][f 1 1][e]
@@ -523,7 +523,7 @@
 
 [msg MSG_087 [Mr. Yamada]]
 [f 0 5 -258][f 2 1]...And that's why the South Pole is colder[n]than the North Pole.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Maybe the coldness is why nobody claimed the[n] South Pole for their country.[n]Haha[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Maybe the coldness is why nobody claimed the[n]South Pole for their country.[n]Haha[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Speaking of cold, it got cold really[n]quickly this year. Remember to wear[n]extra layers so you don't get sick. [n][f 1 1][e]
 [f 0 5 -258][f 2 1]But ladies, it's no good to wear warm-ups[n]under your skirts. ...Why? Because no one[n]can see your legs...[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Er, that was a joke. Just my way of[n]reminding you all to wear your school[n]uniforms, got it?[n][f 1 1][e]
@@ -616,7 +616,7 @@
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Days like these, I just want to spend all[n]day counting my money at home.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]2, 4, 6, 8, 10. It's easy to count when[n]you use a sequence of numbers with a[n]common difference.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]2, 4, 8, 16, 32...[n]Numbers with geometric progression are[n]more difficult to count by.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]Here's a sequence that's even harder to[n]count  by: 0, 1, 1, 2, 3, 5, 8, 13...[n] which was named after an italian man.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]Here's a sequence that's even harder to[n]count  by: 0, 1, 1, 2, 3, 5, 8, 13...[n]which was named after an italian geezer.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 2]-kun, can you answer this?[n][f 1 1][e]
 
 [msg MSG_103 [Mrs. Nakayama]]
@@ -678,8 +678,8 @@
 [f 0 5 -258][f 2 1]Good morning! What's up, you guys?[n]You don't look so well.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Are you exhausted from studying for the[n]test around the corner? I hope you're not[n]forgetting something...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Christmas is coming up in a month![n]Have you found your dates yet?[n][f 1 1][e]
-[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Hahaha, I've got mine[n]already! Tell ya what! She's the girl I[n]am going to eat my new years Mochi with![n][f 1 1][e]
-[f 0 5 -258][f 2 1]She calls me her "beefcake" because she[n]likes how fit I am. Not every cake has to be sweet.[n]Hahaha![n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Hahaha, I've got mine already![n]Tell ya what! She's the girl I am going[n]to eat my new years Mochi with![n][f 1 1][e]
+[f 0 5 -258][f 2 1]She calls me her "beefcake" because she[n]likes how fit I am. Not every cake has[n]to be sweet. Hahaha![n][f 1 1][e]
 [f 0 5 -258][f 2 1]All right! I'll ask a trick[n]question regarding japanese christmas [n]cakes, [f 4 1]![n][f 1 1][e]
 
 [msg MSG_113 [Mr. Kondo]]
@@ -712,7 +712,7 @@
 [f 0 5 -258][f 2 1]Isn't that right, [f 4 2]-kun?[n]You seem happy about something.[n][f 1 1][e]
 
 [msg MSG_118 [Ms. Kashiwagi]]
-[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]Did you hear what I said about which[n]color a fuzzy-wuzzy[n]polar bear's fur really is?[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]Did you hear what I said about which[n]color a fuzzy-wuzzy polar bear's[n]fur really is?[n][f 1 1][e]
 
 [sel SEL_119]
 [f 0 5 -258][f 2 1]"Transparent."[f 2 7 0 0 30 1][e]
@@ -862,7 +862,7 @@
 [msg MES_144 [Mr. Hosoi]]
 [f 0 5 -258][f 2 1]Let's get ready for the first lecture[n]of the day. Did you all get to relax[n]during your winter break?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]I had too much to drink during a new[n]year's party, so I was hung over all[n]New Year's Day.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]It felt like I burried a demon in my head.[n]*sigh*[n]I can still feel it.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]It felt like I burried a demon in my head.[n]*sigh* ...I can still feel it.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]While we're on the subject of alcoholic[n]beverages, there's something interesting[n]about the toso we drink on New Year's.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Who might know this...?[n][f 4 2]-chan![n][f 1 1][e]
 
@@ -896,7 +896,7 @@
 [f 0 5 -258][f 2 1]Do you know any, [f 4 2]-kun?[n][f 1 1][e]
 
 [msg MES_150 [Ms. Kashiwagi]]
-[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]In the Thai and Vietnamese zodiacs, which[n]little predator is used in the place of the rabbit?[n][f 1 1][e]
+[f 0 5 -258][f 2 1][f 4 6 17 2 0 1]What do you think? Which tiny[n]predator is used in Thai and Vietnamese[n]zodiacs?[n][f 1 1][e]
 
 [sel SEL_151]
 [f 0 5 -258][f 2 1]"Elephant."[e]

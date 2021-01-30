@@ -312,7 +312,7 @@
 [f 0 5 -258][f 2 1]Don't you think it'd be a wonderful[n]experience to be here when it happens?[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Of course, if the world ends, you must[n]consider the fact that we're all going[n]to die.[n][f 1 1][e]
 [f 0 5 -258][f 2 1]When I make that journey into the world[n]of the afterlife, I would like to sleep[n]beautifully like the Egyptian royals.[n][f 1 1][e]
-[f 0 5 -258][f 2 1]I wouldn't say I'd be as beautiful as[n]Cleopatra the seventh, but I have to make myself[n]somewhat presentable.[n][f 1 1][e]
+[f 0 5 -258][f 2 1]I wouldn't say I'd be as beautiful as[n]Cleopatra the seventh, but I have[n]to make myself somewhat presentable.[n][f 1 1][e]
 [f 0 5 -258][f 2 1][f 4 9 900 3 5 0 5]Now that the river of conversation has[n]flowed to Cleopatra, I'm going to ask[n]you a question![n][f 1 1][e]
 [f 0 5 -258][f 2 1]There were many queens in ancient Egypt[n]named "Cleopatra"...[n][f 1 1][e]
 [f 0 5 -258][f 2 1]Yet, which Cleopatra is the one who was[n]known as one of the three most beautiful[n]women in the world?[n][f 1 1][e]
