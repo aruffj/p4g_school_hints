@@ -37,7 +37,7 @@ October:
 
 November:
 * 11/01 - Today it is more about the upper bodys strenght but in the beginning it was about "drawing with your feet"!
-* 11/04 - Which is, of course, a reference to the "cuckoo on the drum" on Kano Hidenbu's famous painting from the Edo period. - Hmm... Who can tell me what kind of bird a kanko-dori is? Hana-Chan! you look like you weren't even listening!
+* 11/04 - It's so quiet I could even hear a faint[n]"cuck-oo" echoing in the distance. -  Hey, kids. Quit going to Junes so often.[n]Visit your local shopping district, too! - Hmm... Hanamura-chan since you are[n]kind of involved here - do you know[n]which bird I could hear?[
 * 11/07 - Maybe the coldness is why nobody claimed the South Pole for their country. Haha - [...] - **line change:**  Let's rehearse. I'll pick you, [MC]-kun,[...]
 * 11/24 - **line change:**  Here's a sequence that's even harder to count  by: 0, 1, 1, 2, 3, 5, 8, 13... which was named after an italian geezer.
 * 11/25 - I'll make sure that your tomb is smaller than Khufus pyramid.
@@ -50,6 +50,6 @@ December:
 
 January:
 * 1/10 - I hope you didn't forget to eat fruits, especially oranges! Vitamin C is really important for you, especially in winter! - **line change:**  Speaking about oranges - I completely forgot to get the kagami mochi!
-* 1/14 - It felt like I burried a demon in my head. \*sigh\* I can still feel it.
+* 1/14 - It felt like I burried a demon in my head. \*sigh\* ...I can still feel it.
 * 1/19 - What do you think? Which tiny predator is used in Thai and Vietnamese zodiacs?  
 * 1/25 - **line change:**  Well then, I'll do Amagi-san a favor and ask her this one. Your taste fits the answer!
